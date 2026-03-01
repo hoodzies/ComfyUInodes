@@ -5,7 +5,7 @@ Some ComfyUI nodes I created for my use.
 <img width="405" height="229" alt="image" src="https://github.com/user-attachments/assets/086763fc-897f-4fde-a195-3b0c8eb5840e" />
 <br>
 <img width="1184" height="671" alt="image" src="https://github.com/user-attachments/assets/44a46411-2288-4078-8c95-66f419d372e6" /><br>
-<horizontal_pixel_displacement : How many pixels to move horizontal the overlay (center is 0, positive is RIGHT)<br>
+horizontal_pixel_displacement : How many pixels to move horizontal the overlay (center is 0, positive is RIGHT)<br>
 vertical_pixel_displacement : How many pixels to move vertical the overlay (center is 0, positive is UP)<br>
 scale : Scale of the overlay (1 is 1:1 insertion)<br>
 overlay_brightness : Adjust overlay brightness (FLOAT -1 to 1)<br>
