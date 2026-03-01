@@ -17,5 +17,7 @@ alpha_contrast : adjust the mask contrast (sometimes helps to remove the "glow" 
 </p>
 <img width="950" height="464" alt="image" src="https://github.com/user-attachments/assets/0ebeaa51-ac90-40a6-96be-39ebb295c26e" /><br>
 Size : 1 megapixel or 2 megapixels<br>
-ratio : 16:9, 3:2 4:3 or 1:1 
-orientation : Portrait or Landscape
+ratio : 16:9, 3:2 4:3 or 1:1<br> 
+orientation : Portrait or Landscape<br>
+<br>
+Thanks!
