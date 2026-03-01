@@ -5,6 +5,14 @@ Some ComfyUI nodes I created for my use.
 <img width="405" height="229" alt="image" src="https://github.com/user-attachments/assets/086763fc-897f-4fde-a195-3b0c8eb5840e" />
 </p>
 <img width="1184" height="671" alt="image" src="https://github.com/user-attachments/assets/44a46411-2288-4078-8c95-66f419d372e6" />
+horizontal_pixel_displacement : How many pixels to move horizontal the overlay (center is 0, positive is RIGHT)
+vertical_pixel_displacement : How many pixels to move vertical the overlay (center is 0, positive is UP)
+scale : Scale of the overlay (1 is 1:1 insertion)
+overlay_brightness : Adjust overlay brightness (FLOAT -1 to 1)
+overlay_contrast : Adjust overlay contrast (FLOAT -1 to 1)
+overlay_gamma : Adjust overlay gamma (FLOAT -1 to 1)
+overlay_temperature : Adjust overlay color temperature (FLOAT -1 to 1, -1 is cold and 1 is warm)
+alpha_blur : gaussian value to blur the mask
+alpha_contrast : adjust the mask contrast (sometimes helps to remove the "glow" around an overlay
 </p>
-Horizontal_pixel_displacement : How many pixels to 
 <img width="950" height="464" alt="image" src="https://github.com/user-attachments/assets/0ebeaa51-ac90-40a6-96be-39ebb295c26e" />
